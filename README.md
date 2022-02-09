@@ -14,7 +14,7 @@
 
 I am a Geospatial Web Developer from the US.
 
-:seedling: Exploring Technical Content & Academic Writing, API Development & Testing, and 
+:seedling: Exploring Technical Content & Academic Writing, API Development & Testing, and Web Mapping.
 
 :zap: In my free time I like to garden :seedling:, play video games :video_game:, homebrew :alembic:, read :open_book:, and oly weightlift :weight_lifting_woman:
 
