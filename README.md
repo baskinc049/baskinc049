@@ -12,7 +12,7 @@
 ---
 ### :feather: About Me :
 
-I am a Geospatial Web Developer from the US.
+Geospatial Web Developer from the US.
 
 :seedling: Exploring Technical Content & Academic Writing, API Development & Testing, and Web Mapping.
 
