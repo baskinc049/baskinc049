@@ -13,15 +13,6 @@ Education
 MHIT Project: *Research Data Assessment Survey* - a survey of the data management needs and practices of researchers at the University of South Carolina conducted by the Provost’s Committee on IT.
 
 
-Core Qualifications
-------
-[POSITIONAL RELEVANT - CHANGE THESE OUT BASED ON SUBMISSION]
-[Knowledge, Skills, and Abilities (K.S.As) Statement]
-
-- Experienced at managing online content and data
-- Etc.
-
-
 Professional Experience
 ---------
 **Research Associate (Geospatial Web Developer/DataViz Team Lead)** (Jan 2023 – Present)
