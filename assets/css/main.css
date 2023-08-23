@@ -1,11 +1,27 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900");
 
 /*
 	Phantom by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
+
+
+:root {
+	/* Design System - Colors */
+	--garnet: #731011;
+	--white: #ffffff;
+  	--warmGrey: #45423a;
+	--color-light-gray: #ececec;
+  	--congaree: #1f414d;
+  	--paleSilver: #c7c4bc;
+
+	/* Design System - Font Family */
+}
+
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -99,7 +115,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: var(--color-light-gray);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -116,11 +132,11 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #585858;
+		color: black;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
-		font-weight: 300;
-		line-height: 1.75;
+		font-weight: 400;
+		line-height: 1.55;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -151,7 +167,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			color: var(--congaree) !important;
 		}
 
 	strong, b {
@@ -172,6 +188,7 @@ input, select, textarea {
 		line-height: 1.3;
 		margin: 0 0 1em 0;
 		letter-spacing: -0.035em;
+		color: var(--garnet);
 	}
 
 		h1 a {
@@ -201,6 +218,7 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
 		letter-spacing: 0.35em;
+		color: var(--garnet);
 	}
 
 		h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1856,8 +1874,8 @@ input, select, textarea {
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
+				color: var(--warmGrey);
+				border-color: var(--garnet);
 			}
 
 			.icon.style2:active {
@@ -3329,3 +3347,23 @@ input, select, textarea {
 
 		}
 
+
+#favicon:hover {
+	animation: shake 0.5s;
+
+  	animation-iteration-count: 1;
+}
+
+@keyframes shake {
+	0% { transform: translate(1px, 1px) rotate(0deg); }
+	10% { transform: translate(-1px, -2px) rotate(-1deg); }
+	20% { transform: translate(-3px, 0px) rotate(1deg); }
+	30% { transform: translate(3px, 2px) rotate(0deg); }
+	40% { transform: translate(1px, -1px) rotate(1deg); }
+	50% { transform: translate(-1px, 2px) rotate(-1deg); }
+	60% { transform: translate(-3px, 1px) rotate(0deg); }
+	70% { transform: translate(3px, 1px) rotate(-1deg); }
+	80% { transform: translate(-1px, -1px) rotate(1deg); }
+	90% { transform: translate(1px, 2px) rotate(0deg); }
+	100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
