@@ -32,11 +32,11 @@ In addition to my responsibilities as the Division's Geospatial Web Developer, I
 - Responsible for maintaining and updating the Institute for Families in Society (IFS) websites.
 - Design and develop content for web pages, enhanced new and existing web pages and technical applications.
 - Designed and modified existing mojoPortal themes/layouts, built additional pages, banners, and other design elements as needed.
-- Proactively pursue content that elevates the unit's reasearch, message, and storytelling within the CMS and redesigned website, ensuring all pages have a similar look and feel. 
+- Proactively pursue content that elevates the unit's research, message, and storytelling within the CMS and redesigned website, ensuring all pages have a similar look and feel. 
 - Applied the latest technologies to engage target audiences.
 - Utilize Google Analytics to track traffic and interactions throughout the Unit's web properties.
 - Provided user support and troubleshooting for the unit's external web dashboard tools.
-- Knowledgable in accessing and using APIs to query and extract data.
+- Knowledgeable in accessing and using APIs to query and extract data.
 - Produced GIS products such as maps, tables, reports, and presentations for inter-agency users and external stakeholders.
 - Led and organized projects from start to completion, including coordinating and performing key tasks such as data identification, data cleaning and processing, geoprocessing, product creation, product validation and evaluation, product assembly for delivery, project documentation and closeout, and management debrief.
 - Designed and develop web GIS maps and applications with self-direction and/or minimal supervision, and as instructed.
@@ -65,7 +65,7 @@ In addition to my responsibilities as the Division's Geospatial Web Developer, I
 **Graduate Research Assistant** (Jan 2017 – May 2017)
 *University of South Carolina*, Columbia, SC
 
-- Woked with researchers at the University of South Carolina’s Columbia campus to complete the *Research Data Assessment Survey*. This assessment served to allow the University to plan a long-term management strategy for research data. 
+- Worked with researchers at the University of South Carolina’s Columbia campus to complete the *Research Data Assessment Survey*. This assessment served to allow the University to plan a long-term management strategy for research data. 
 <br/>
 
 Professional Projects (Highlights)
