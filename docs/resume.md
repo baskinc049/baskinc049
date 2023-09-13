@@ -75,21 +75,21 @@ CHARGED<sup>3</sup> (Children’s Health & Resource Geographic Exploration for D
 
 The CHARGED<sup>3</sup> Hub is an online engagement platform for the data-driven CHARGED<sup>3</sup> initiative. It delivers the CHARGED<sup>3</sup> Geospatial Environmental Scan<sup>©</sup> and the underlying framework of the initiative, as well as contextual factors, data, and topics around children Birth to 5.
 
-> **Notable Features:** Allows IFS to leverage existing GIS data and technologies, provides expanded interactivity, dynamic and inter-related mapping and charting, interactive identification of communities and resources, no user download requirements, allows for the linking of additional web applications and products for greater commmunity context, and provides IFS the opportunity for futher updates and scaling of the platform for CHARGED<sup>3</sup> and other project areas. 
+> **Notable Features:** Allows IFS to leverage existing GIS data and technologies, provides expanded interactivity, dynamic and inter-related mapping and charting, interactive identification of communities and resources, no user download requirements, allows for the linking of additional web applications and products for greater community context, and provides IFS the opportunity for further updates and scaling of the platform for CHARGED<sup>3</sup> and other project areas. 
 
 > **Notable Challenges:** While every effort has been made to meet 508 compliance, there are some interactive portions of this Hub that do not meet standards. The Institute for Families in Society remains committed to making its web technologies and informational products accessible to all users in accordance to the requirements of Section 508 of the Rehabilitation Act, success criteria outlined in the Web Content Accessibility Guidelines (WCAG), and known best practices. 
 
 <br/>
 
 #### **CHARGED<sup>3</sup> Geospatial Environmental Scan<sup>©</sup>** [<a href="https://www.schealthviz.sc.edu/charged3" target="_blank">https://www.schealthviz.sc.edu/charged3</a>]
-An interactive, embedded PDF product built using desktop GIS software and the Adobe PDF file format to create a data-rich, interactive experience that can be delivered to non-GIS users. Included in the standalone PDF are static maps, an interactive map, linked data tables, metadata, and other visualizations that are combined in a way that tells both a story and allows users to ask data-relevant questions. The CHARGED<sup>3</sup> Geospatial Environmental Scan<sup>©</sup> features data designed to explore gaps in access to health care, continuity of care, and the availability of family support and resource programs for children brith to 5 in South Carolina.
+An interactive, embedded PDF product built using desktop GIS software and the Adobe PDF file format to create a data-rich, interactive experience that can be delivered to non-GIS users. Included in the standalone PDF are static maps, an interactive map, linked data tables, metadata, and other visualizations that are combined in a way that tells both a story and allows users to ask data-relevant questions. The CHARGED<sup>3</sup> Geospatial Environmental Scan<sup>©</sup> features data designed to explore gaps in access to health care, continuity of care, and the availability of family support and resource programs for children birth to 5 in South Carolina.
 
 > **Notable Features:** Interactive discovery via an interactive PDF map where users can explore individual data elements of interest by toggling PDF layers on/off.
 
 <br/>
 
 #### **SC Birth Outcomes Initiative Portal** [<a href="https://boi.ifsreports.com/" target="_blank">https://boi.ifsreports.com/</a>]  
-The SCBOI interactive dashboard provides users with an instant visual representation of the statewide maternal and birth outcomes metrics – across payment, individual, facility-level, and geographical characteristics. Users can filter, print, and share these data. The dashboard is a tool that facilitates data-driven collaborative decisions to improve the clinical outcomes of mothers and babies in SC. (Acknowledgements to the Data Science and Visualization Unit, IFS and Research Computing, Division of IT (USC))
+The SC BOI interactive dashboard provides users with an instant visual representation of the statewide maternal and birth outcomes metrics – across payment, individual, facility-level, and geographical characteristics. Users can filter, print, and share these data. The dashboard is a tool that facilitates data-driven collaborative decisions to improve the clinical outcomes of mothers and babies in SC. (Acknowledgements to the Data Science and Visualization Unit, IFS and Research Computing, Division of IT (USC))
 
 
 > **Notable Features:** Play Framework for Java, Dynamic Data Visualization (ChartJS), Responsive and Mobile-First UI (Bootstrap), Database Integration and Management (PostgreSQL, pgAdmin).
@@ -115,7 +115,7 @@ Assisted in maintaining and updating South Carolina's Medicaid transparency site
 <br/>
 
 #### **SC HealthViz - Geospatial Health Stats & Policy Research (2023 -)** [<a href="https://www.schealthviz.sc.edu" target="_blank">https://www.schealthviz.sc.edu</a>] 
-Lead Web Developer and Project Lead on the rebranding and revitilization of the Medicaid transparency site into a website dedicated to providing geospatial analysis, health statistics, and innovative policy research for the Division of Integrated Health and Policy Research (IHPR) within the Institute for Families in Society (IFS) at the University of South Carolina.
+Lead Web Developer and Project Lead on the rebranding and revitalization of the Medicaid transparency site into a website dedicated to providing geospatial analysis, health statistics, and innovative policy research for the Division of Integrated Health and Policy Research (IHPR) within the Institute for Families in Society (IFS) at the University of South Carolina.
 
 > **Notable Features:** The site provides geospatial analysis of health data and social determinants of health, or GeoHealth, the site explores the geographic context that shapes outcomes and policies at local and regional levels.
 
@@ -140,7 +140,7 @@ ArcGIS StoryMap serving as a supplement to Ring Maps for spatial visualization o
 <br/>
 
 #### **Health Professional Shortage Areas (HPSA) (2018)** - [<a href="https://www.schealthviz.sc.edu/health-professional-shortage-areas" target="_blank">https://www.schealthviz.sc.edu/health-professional-shortage-areas</a>]
-Classic ArcGIS StoryMap showcasing designated Health Professional Shortage Areas (HPSAs) in South Carolina. This application was self-hosted on a local webserver to allow for extended customization of the Story.
+Classic ArcGIS StoryMap showcasing designated Health Professional Shortage Areas (HPSAs) in South Carolina. This application was self-hosted on a local web server to allow for extended customization of the Story.
 
 <br/>
 
@@ -184,7 +184,7 @@ Technical Skills & Experience
 
 **Spatial Statistics & Analysis:** Creation of weighted data (Collect Events), Distance and Time Network Analysis with ArcGIS
 
-**Health & Demographic Geographic Analysis:** Analysis of Social Determinants of Health; Creation of composite indicies and estimates
+**Health & Demographic Geographic Analysis:** Analysis of Social Determinants of Health; Creation of composite indices and estimates
 
 **Cartographic Design:** Data-driven Map Series; Interactive Web Mapping with InstantAtlas/ArcGIS Online/ArcGIS JavaScript API; custom design with Adobe Creative Suite
 
@@ -239,7 +239,7 @@ Coursework
 **Geography and GIS**
 - Geographic Information Systems
 
-**Intergrated Information Technology**
+**Integrated Information Technology**
 - Management of Health Information Systems
 - Project Management for Health Information
 - Systems Analysis & Design for Health Applications
