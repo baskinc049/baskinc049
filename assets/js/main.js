@@ -184,6 +184,9 @@
 
 })(jQuery);
 
+const iOS = navigator.userAgent.match(/iPhone|iPad|iPod/i);
+const Android = navigator.userAgent.match(/Android/i);
+const IEMobile = navigator.userAgent.match(/IEMobile/i);
 
 //Smartphones and Additional Mobile Devices - Portrait & Landscape
 if (window.matchMedia('screen and (max-width: 320px)').matches || window.matchMedia('screen and (max-width: 480px)').matches || iOS || Android || IEMobile) {
