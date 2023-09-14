@@ -183,3 +183,16 @@
 			});
 
 })(jQuery);
+
+
+//Smartphones and Additional Mobile Devices - Portrait & Landscape
+if (window.matchMedia('screen and (max-width: 320px)').matches || window.matchMedia('screen and (max-width: 480px)').matches || iOS || Android || IEMobile) {
+    //Alert to view complex visualization on larger screen
+    confirm("Thank you for you interest in view my online portfolio! For the best viewing experience please view the website on either a larger screen (desktop or tablet) or in landscape orientation.")
+}
+
+//iPads - Portrait
+if (window.matchMedia('screen and (max-width: 768px) and (orientation: landscape)').matches) {
+    //Alert to view complex visualization on larger screen
+    confirm("Thank you for you interest in view my online portfolio! For the best viewing experience please view the website on either a larger screen (desktop or tablet) or in landscape orientation.")
+}
